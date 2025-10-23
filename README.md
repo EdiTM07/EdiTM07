@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EdiTM07.EdiTM07&"  />
+</div>
+
+###
+
 <h1 align="center">Hola... 👋</h1>
 
 ###
@@ -53,5 +59,11 @@
 ###
 
 <h3 align="left">🔥   Mis estadisticas :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EdiTM07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
